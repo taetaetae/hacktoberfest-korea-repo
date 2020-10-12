@@ -1,5 +1,5 @@
-# [Hacktoberfest](https://hacktoberfest.digitalocean.com/) korea repository 
-**Automation Update Time** : 2020-10-13 01:59:03
+# [Hacktoberfest](https://hacktoberfest.digitalocean.com/) korea repository :+: 
+**Automation Update Time** : 2020-10-13 01:59:44
 | repository | language | stars | forks | created | updated |
 |---|---|---|---|---|---|
-| |Python|2|3|2020-10-11|2020-10-12|
+|[taetaetae/github-repo-searcher](https://github.com/taetaetae/github-repo-searcher)|Python|2|3|2020-10-11|2020-10-12|
