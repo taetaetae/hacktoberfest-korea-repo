@@ -1,8 +1,8 @@
 # [Hacktoberfest](https://hacktoberfest.digitalocean.com/) korea repository :thumbsup: 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaetaetae%2Fhacktoberfest-korea-repo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-**Automation Update Time** : 2020-10-18 12:13:15
+**Automation Update Time** : 2020-10-18 12:41:06
 
-Last Three Years Data. total count : 80
+Data for users subscribed in the last 20 years. total count : 80
 | repository | language | stars | forks | created | updated |
 |---|---|---|---|---|---|
 |[disjukr/just-news](https://github.com/disjukr/just-news)|TypeScript|172|43|2014-09-03|2020-10-11|
@@ -39,10 +39,10 @@ Last Three Years Data. total count : 80
 |[parksb/handmade-blog](https://github.com/parksb/handmade-blog)|SCSS|65|15|2019-12-08|2020-10-16|
 |[ugnelis/ros_cameras_controller](https://github.com/ugnelis/ros_cameras_controller)|JavaScript|4|0|2018-07-23|2019-06-13|
 |[konlpy/konlpy](https://github.com/konlpy/konlpy)|Python|1038|279|2014-05-01|2020-10-17|
-|[ShoyuVanilla/FoundryVTT-Chat-Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait)|TypeScript|3|7|2020-05-16|2020-10-04|
 |[ShoyuVanilla/FoundryVTT-CGMP](https://github.com/ShoyuVanilla/FoundryVTT-CGMP)|JavaScript|3|3|2020-05-19|2020-10-03|
+|[ShoyuVanilla/FoundryVTT-Chat-Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait)|TypeScript|3|7|2020-05-16|2020-10-04|
 |[taetaetae/github-repo-searcher](https://github.com/taetaetae/github-repo-searcher)|Python|3|7|2020-10-11|2020-10-14|
-|[taetaetae/hacktoberfest-korea-repo](https://github.com/taetaetae/hacktoberfest-korea-repo)|None|1|1|2020-10-12|2020-10-17|
+|[taetaetae/hacktoberfest-korea-repo](https://github.com/taetaetae/hacktoberfest-korea-repo)|None|1|1|2020-10-12|2020-10-18|
 |[lovefields/dragonEditor](https://github.com/lovefields/dragonEditor)|JavaScript|4|1|2019-08-17|2020-10-12|
 |[lovefields/docker-phalcon-sample](https://github.com/lovefields/docker-phalcon-sample)|None|1|0|2020-10-08|2020-10-16|
 |[phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)|HTML|19|31|2020-09-27|2020-10-17|
@@ -52,8 +52,8 @@ Last Three Years Data. total count : 80
 |[iipeace/guider](https://github.com/iipeace/guider)|Python|382|71|2015-11-16|2020-10-13|
 |[sorrykim/syp](https://github.com/sorrykim/syp)|TypeScript|1|0|2020-07-30|2020-10-15|
 |[hahnlee/hwp.js](https://github.com/hahnlee/hwp.js)|TypeScript|921|59|2020-08-22|2020-10-16|
-|[ksjae/Meals](https://github.com/ksjae/Meals)|Swift|1|0|2018-09-02|2020-10-04|
 |[ksjae/ai-text-adventure](https://github.com/ksjae/ai-text-adventure)|Python|1|0|2020-07-03|2020-10-15|
+|[ksjae/Meals](https://github.com/ksjae/Meals)|Swift|1|0|2018-09-02|2020-10-04|
 |[Reinose/Useful-IDAScripts](https://github.com/Reinose/Useful-IDAScripts)|Python|5|1|2020-09-21|2020-10-15|
 |[davimatyi/nut-app](https://github.com/davimatyi/nut-app)|JavaScript|1|1|2019-10-06|2020-10-05|
 |[CodeSeoul/codeseoul.github.io](https://github.com/CodeSeoul/codeseoul.github.io)|HTML|1|1|2020-09-26|2020-10-11|
@@ -79,9 +79,9 @@ Last Three Years Data. total count : 80
 |[BusHanyang/Shuttle_PWA](https://github.com/BusHanyang/Shuttle_PWA)|JavaScript|4|4|2019-09-08|2020-10-16|
 |[BusHanyang/ERICA_shuttlecock_API](https://github.com/BusHanyang/ERICA_shuttlecock_API)|JavaScript|1|3|2019-10-05|2020-10-16|
 |[koreanbots/client](https://github.com/koreanbots/client)|HTML|12|6|2020-02-11|2020-10-17|
-|[Road-of-CODEr/clean-code](https://github.com/Road-of-CODEr/clean-code)|None|8|3|2020-09-11|2020-10-17|
-|[jinseobhong/git.study-react-samples](https://github.com/jinseobhong/git.study-react-samples)|JavaScript|0|0|2020-10-07|2020-10-12|
-|[jinseobhong/git.studyMDN-html5-samples](https://github.com/jinseobhong/git.studyMDN-html5-samples)|None|0|0|2020-06-02|2020-10-16|
-|[Road-of-CODEr/computer-science](https://github.com/Road-of-CODEr/computer-science)|None|0|1|2020-09-19|2020-10-14|
+|[Road-of-CODEr/clean-code](https://github.com/Road-of-CODEr/clean-code)|TypeScript|8|3|2020-09-11|2020-10-18|
 |[Road-of-CODEr/one-percent-network](https://github.com/Road-of-CODEr/one-percent-network)|None|0|0|2020-09-14|2020-10-14|
+|[jinseobhong/git.studyMDN-html5-samples](https://github.com/jinseobhong/git.studyMDN-html5-samples)|None|0|0|2020-06-02|2020-10-16|
+|[jinseobhong/git.study-react-samples](https://github.com/jinseobhong/git.study-react-samples)|JavaScript|0|0|2020-10-07|2020-10-12|
+|[Road-of-CODEr/computer-science](https://github.com/Road-of-CODEr/computer-science)|None|0|1|2020-09-19|2020-10-14|
 |[hangulpeople/hp-webapp](https://github.com/hangulpeople/hp-webapp)|Vue|0|1|2020-07-24|2020-10-15|
