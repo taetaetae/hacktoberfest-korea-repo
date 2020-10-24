@@ -1,14 +1,14 @@
 # [Hacktoberfest](https://hacktoberfest.digitalocean.com/) korea repository :thumbsup: 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaetaetae%2Fhacktoberfest-korea-repo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-**Automation Update Time** : 2020-10-24 14:14:23
+**Automation Update Time** : 2020-10-24 15:27:43
 
 Data for users subscribed in the last 12 years. total count : 81
 | repository | language | stars | forks | created | updated |
 |---|---|---|---|---|---|
 |[disjukr/just-news](https://github.com/disjukr/just-news)|TypeScript|172|43|2014-09-03|2020-10-11|
 |[jechol/definject](https://github.com/jechol/definject)|Elixir|33|2|2020-02-28|2020-10-20|
-|[spoqa/LongPressListener](https://github.com/spoqa/LongPressListener)|Kotlin|13|0|2020-09-16|2020-10-05|
 |[spoqa/StickyScrollView](https://github.com/spoqa/StickyScrollView)|Kotlin|13|0|2020-09-02|2020-10-05|
+|[spoqa/LongPressListener](https://github.com/spoqa/LongPressListener)|Kotlin|13|0|2020-09-16|2020-10-05|
 |[azamara/summer](https://github.com/azamara/summer)|HTML|4|0|2015-04-11|2020-10-05|
 |[jechol/nix-beam](https://github.com/jechol/nix-beam)|Nix|1|1|2020-08-29|2020-10-23|
 |[sople1/project_9.py](https://github.com/sople1/project_9.py)|Python|2|0|2015-03-12|2020-10-05|
@@ -35,17 +35,17 @@ Data for users subscribed in the last 12 years. total count : 81
 |[KimWooHyun/resume](https://github.com/KimWooHyun/resume)|JavaScript|27|16|2018-01-03|2020-10-05|
 |[KimWooHyun/WHLunarCalendar](https://github.com/KimWooHyun/WHLunarCalendar)|Swift|17|3|2017-08-23|2020-10-05|
 |[corona10/goimagehash](https://github.com/corona10/goimagehash)|Go|346|37|2017-07-28|2020-10-23|
-|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|Python|10429|542|2020-02-02|2020-10-23|
+|[mingrammer/diagrams](https://github.com/mingrammer/diagrams)|Python|10429|542|2020-02-02|2020-10-24|
 |[parksb/handmade-blog](https://github.com/parksb/handmade-blog)|SCSS|68|16|2019-12-08|2020-10-24|
 |[ugnelis/ros_cameras_controller](https://github.com/ugnelis/ros_cameras_controller)|JavaScript|4|0|2018-07-23|2019-06-13|
 |[konlpy/konlpy](https://github.com/konlpy/konlpy)|Python|1042|281|2014-05-01|2020-10-23|
 |[ShoyuVanilla/FoundryVTT-CGMP](https://github.com/ShoyuVanilla/FoundryVTT-CGMP)|JavaScript|3|3|2020-05-19|2020-10-03|
 |[ShoyuVanilla/FoundryVTT-Chat-Portrait](https://github.com/ShoyuVanilla/FoundryVTT-Chat-Portrait)|TypeScript|3|8|2020-05-16|2020-10-04|
 |[taetaetae/github-repo-searcher](https://github.com/taetaetae/github-repo-searcher)|Python|4|8|2020-10-11|2020-10-20|
-|[taetaetae/hacktoberfest-korea-repo](https://github.com/taetaetae/hacktoberfest-korea-repo)|None|4|1|2020-10-12|2020-10-23|
-|[lovefields/dragonEditor](https://github.com/lovefields/dragonEditor)|JavaScript|4|2|2019-08-17|2020-10-12|
+|[taetaetae/hacktoberfest-korea-repo](https://github.com/taetaetae/hacktoberfest-korea-repo)|None|4|1|2020-10-12|2020-10-24|
+|[lovefields/dragonEditor](https://github.com/lovefields/dragonEditor)|JavaScript|4|2|2019-08-17|2020-10-24|
 |[lovefields/docker-phalcon-sample](https://github.com/lovefields/docker-phalcon-sample)|None|1|0|2020-10-08|2020-10-16|
-|[phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)|HTML|20|34|2020-09-27|2020-10-23|
+|[phg98/hacktoberfestkorea](https://github.com/phg98/hacktoberfestkorea)|HTML|20|35|2020-09-27|2020-10-23|
 |[phg98/phg98p5sample](https://github.com/phg98/phg98p5sample)|JavaScript|0|4|2020-08-23|2020-10-18|
 |[ericswpark/linux_setup](https://github.com/ericswpark/linux_setup)|Shell|0|0|2019-11-27|2020-10-07|
 |[RieLCho/Discord_DGUcafeteria](https://github.com/RieLCho/Discord_DGUcafeteria)|Python|4|4|2020-03-09|2020-10-22|
@@ -66,7 +66,7 @@ Data for users subscribed in the last 12 years. total count : 81
 |[anencore94/SlidingWindowGenerator](https://github.com/anencore94/SlidingWindowGenerator)|Jupyter Notebook|0|0|2020-09-29|2020-10-07|
 |[pcr910303/HackerNews](https://github.com/pcr910303/HackerNews)|Swift|41|1|2020-01-07|2020-10-20|
 |[pcr910303/cl-cowsay](https://github.com/pcr910303/cl-cowsay)|Common Lisp|10|1|2019-01-02|2020-10-03|
-|[libreoffice-kr/autocorr_kr](https://github.com/libreoffice-kr/autocorr_kr)|None|9|31|2020-09-30|2020-10-23|
+|[libreoffice-kr/autocorr_kr](https://github.com/libreoffice-kr/autocorr_kr)|None|10|31|2020-09-30|2020-10-24|
 |[Haeuncs/RetroPhotoEditor](https://github.com/Haeuncs/RetroPhotoEditor)|Swift|0|0|2020-08-31|2020-10-06|
 |[INMD1/javabot-KR](https://github.com/INMD1/javabot-KR)|Java|4|3|2019-12-03|2020-10-08|
 |[litemint/litemint](https://github.com/litemint/litemint)|JavaScript|20|16|2018-11-17|2020-10-19|
@@ -82,7 +82,7 @@ Data for users subscribed in the last 12 years. total count : 81
 |[koreanbots/client](https://github.com/koreanbots/client)|HTML|12|6|2020-02-11|2020-10-22|
 |[Road-of-CODEr/clean-code](https://github.com/Road-of-CODEr/clean-code)|TypeScript|11|3|2020-09-11|2020-10-24|
 |[jinseobhong/git.studyMDN-html5-samples](https://github.com/jinseobhong/git.studyMDN-html5-samples)|None|0|0|2020-06-02|2020-10-16|
-|[jinseobhong/git.study-react-samples](https://github.com/jinseobhong/git.study-react-samples)|JavaScript|0|0|2020-10-07|2020-10-12|
 |[Road-of-CODEr/one-percent-network](https://github.com/Road-of-CODEr/one-percent-network)|None|0|0|2020-09-14|2020-10-21|
+|[jinseobhong/git.study-react-samples](https://github.com/jinseobhong/git.study-react-samples)|JavaScript|0|0|2020-10-07|2020-10-12|
 |[Road-of-CODEr/computer-science](https://github.com/Road-of-CODEr/computer-science)|None|0|1|2020-09-19|2020-10-14|
 |[hangulpeople/hp-webapp](https://github.com/hangulpeople/hp-webapp)|Vue|0|1|2020-07-24|2020-10-21|
